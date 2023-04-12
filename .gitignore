@@ -256,7 +256,8 @@ fabric.properties
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -276,3 +277,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+ea_elitist.py
+ea_tournament.py
+nn.py
+nsga2.py

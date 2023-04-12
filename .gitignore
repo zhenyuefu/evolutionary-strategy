@@ -284,5 +284,7 @@ nn.py
 nsga2.py
 cartpole.py
 cartpole_ea.py
+cartpole_nsga2.py
 
-outputs/
+elitist_cartpole/
+nsga2_cartpole/

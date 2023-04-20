@@ -288,3 +288,6 @@ cartpole_nsga2.py
 
 elitist_cartpole/
 nsga2_cartpole/
+
+tme_structures/*.py
+tme_structures/res*/
